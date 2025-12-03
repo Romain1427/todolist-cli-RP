@@ -44,7 +44,6 @@
              <version>0.8.14</version>
          </dependency>
     </dependencies>
-<dependency>
 <build>
 <plugins>
 <plugin>
